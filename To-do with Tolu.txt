@@ -1,0 +1,47 @@
+{
+	"email":"admin@woven.finance",
+	"password":"p455.p455"
+}
+
+[Monday 10:59] Tolu Olatunde
+lets add it as an improvement ticket
+
+[Monday 10:59] Tolu Olatunde
+and alsocreate a task for the delete icon to be removed
+
+[Monday 11:00] Kehinde Odunuga
+alright
+
+[Monday 11:15] Kehinde Odunuga
+who do i assign the task to?
+
+[Monday 11:16] Kehinde Odunuga
+its automatically assigned to Victor tho
+
+[Monday 11:23] Kehinde Odunuga
+(Bernard): This is not an issue from the frontend. it's what Pascal is returning that's being displayed which is dummy data - https://teamwoven.atlassian.net/browse/WGM-1813
+
+[Monday 11:23] Tolu Olatunde
+backend
+
+[Monday 11:23] Tolu Olatunde
+follow up with Pascal
+
+[Monday 11:23] Tolu Olatunde
+and ask him why
+
+[Monday 11:24] Tolu Olatunde
+backend has to create an enpoint to delete
+
+[Monday 11:24] Tolu Olatunde
+and create another ticket for frontend to integrate the backend
+
+[Monday 11:25] Tolu Olatunde
+and also ask for timelinesEmmanuel daniel has been working onPWA since last week
+
+[Monday 11:25] Tolu Olatunde
+what exactly is going on there
+
+[Monday 11:25] Kehinde Odunuga
+all noted
+
